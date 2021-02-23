@@ -25,7 +25,7 @@ namespace areal_beregner
 
                     if (op == "cirkel")
                     {
-                        Console.Write("Skriv radius ");
+                        Console.Write("Skriv radius: ");
                         i = Console.ReadLine();
                         double r = Convert.ToDouble(i);
                         double res = r * 2 * Math.PI;
