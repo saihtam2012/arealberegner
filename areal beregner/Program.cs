@@ -35,7 +35,7 @@ namespace areal_beregner
                     else
                     {
 
-                        Console.WriteLine("Skriv de ene sidelængde: ");
+                        Console.WriteLine("Skriv den ene sidelængde: ");
                         i = Console.ReadLine();
                         double num1 = Convert.ToDouble(i);
 
